@@ -12,7 +12,7 @@
 
 
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) -
+You can check out [the Next.js GitHub repository]
 
 ## Deploy on Vercel
 
