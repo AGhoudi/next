@@ -12,7 +12,7 @@
 
 
 
-You can check out [the Next.js
+You can check out 
 
 ## Deploy on Vercel
 
