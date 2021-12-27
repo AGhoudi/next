@@ -12,7 +12,7 @@
 
 
 
-You can check out 
+You can
 
 ## Deploy on Vercel
 
