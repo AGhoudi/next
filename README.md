@@ -13,4 +13,4 @@
 
 ## Deploy on Vercel
 
-The easiest way to deploy
+The easiest way to
