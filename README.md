@@ -13,4 +13,4 @@
 
 ## Deploy on Vercel
 
-The easiest way to deploy your Next.js
+The easiest way to deploy your
