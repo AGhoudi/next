@@ -10,4 +10,4 @@
 
 ## Deploy on Vercel
 
-The easiest way
+The easiest
