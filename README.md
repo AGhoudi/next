@@ -6,7 +6,7 @@
 
 <p align=center>Dans le cadre de ma recherche d'approfondissement, de mes connaissances en javascript:</br>
 J'ai crée un jeu de memory game en HTML, CSS et JAVASCRIPT.</br>
-Le principe du jeu est simple, lors d'un clic on retourne une carte, l'objectif du jeu est de retourner une paire de carte identique.</br>
+Le principe du jeu est simple, lors d'un clic on retourne une carte, l'objectif du </br>
 </p>
 
 <h2 align=center>👁️ Visuel :</h2>
