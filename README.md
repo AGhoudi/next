@@ -5,7 +5,7 @@
 <h2 align=center>📝 Description :</h2>
 
 <p align=center>Dans le cadre de ma recherche d'approfondissement, de mes connaissances en javascript:</br>
-J'ai crée un jeu de memory game en HTML, CSS et </br>
+J'ai crée un jeu de memory game  </br>
 </p>
 
 <h2 align=center>👁️ Visuel :</h2>
