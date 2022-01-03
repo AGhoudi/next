@@ -16,6 +16,6 @@
 
 <h2 align=center>🌐 Lien web du projet :</h2>
 
-<p align=center>Voici un lien pour tester le jeu:
+<p align=center>Voici un lien pour tester le jeu:</br>
 
-  <a title="https://codepen.io/Link1986/pen/ZmoWqL" role="link" target="_blank" class="text-bold" rel="noopener noreferrer" href="https://codepen.io/Link1986/pen/ZmoWqL"></p>
+  <a title="https://codepen.io/Link1986/pen/ZmoWqL" role="link" target="_blank" class="text-bold" rel="noopener noreferrer" </p>
