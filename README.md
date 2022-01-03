@@ -18,4 +18,4 @@
 
 <p align=center>Voici un lien pour tester le jeu:</br>
 
-  <a title="https://codepen.io/Link1986/pen/ZmoWqL" role="link"</p>
+  <a title="https://codepen.io/Link1986/pen/ZmoWqL"</p>
