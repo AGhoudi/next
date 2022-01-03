@@ -1,6 +1,6 @@
 <div align=center><img src="https://user-images.githubusercontent.com/27373255/147839487-30f5c92d-b370-4bfe-a424-b9188abf45f8.png" alt="ninjalist"/></div>
 <h2 align=center>🎯 Objectif du projet :</h2>
-<p align=center>A Venir...</p>
+<p align=center>Création d'un site en nextjs pour revoir certains points.</p>
 
 <h2 align=center>📝 Description :</h2>
 
