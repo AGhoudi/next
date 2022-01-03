@@ -8,7 +8,7 @@
 </p>
 
 <h2 align=center>👁️ Visuel :</h2>
-<div align=center><img src="https://i.postimg.cc/XvK18NBm/memory.jpg" alt="visuel du jeu"</div>
+<div align=center><img src="https://user-images.githubusercontent.com/27373255/147966925-e0f11517-abf9-4d35-ad98-e2e9c4bf8b69.png" alt="ninjalist"</div>
 
 <h2 align=center>💻 Stack utilisé :</h2>
 
@@ -19,4 +19,3 @@
 <p align=center>Voici un lien pour tester le jeu:
 
   <a title="https://codepen.io/Link1986/pen/ZmoWqL" role="link" target="_blank" class="text-bold" rel="noopener noreferrer" href="https://codepen.io/Link1986/pen/ZmoWqL">codepen.io/link1986/pen/zmowql</a></p>
-![ninja](https://user-images.githubusercontent.com/27373255/147966925-e0f11517-abf9-4d35-ad98-e2e9c4bf8b69.png)
